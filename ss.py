@@ -125,6 +125,7 @@ while running:
         bullety -=bulletychange
     showscore(textx,texty)
     pygame.display.update()
+    #nice game
 
             
 
